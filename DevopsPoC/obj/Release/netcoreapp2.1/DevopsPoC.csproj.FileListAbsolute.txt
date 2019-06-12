@@ -1,0 +1,14 @@
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\bin\Release\netcoreapp2.1\DevopsPoC.deps.json
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\bin\Release\netcoreapp2.1\DevopsPoC.runtimeconfig.json
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\bin\Release\netcoreapp2.1\DevopsPoC.runtimeconfig.dev.json
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\bin\Release\netcoreapp2.1\DevopsPoC.dll
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\bin\Release\netcoreapp2.1\DevopsPoC.pdb
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.csprojAssemblyReference.cache
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.csproj.CoreCompileInputs.cache
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.RazorAssemblyInfo.cache
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.RazorAssemblyInfo.cs
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.AssemblyInfoInputs.cache
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.AssemblyInfo.cs
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.RazorTargetAssemblyInfo.cache
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.dll
+C:\GIT\DevopsPoC\DevopsPoC\DevopsPoC\obj\Release\netcoreapp2.1\DevopsPoC.pdb

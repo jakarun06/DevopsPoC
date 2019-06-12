@@ -1,0 +1,6 @@
+FROM microsoft/dotnet:2.1-aspnetcore-runtime-nanoserver-sac2016
+EXPOSE 7000
+ARG source
+WORKDIR /inetpub/wwwroot
+COPY ${source:-bin/Release/netcoreapp2.1/publish} .
+ENTRYPOINT ["dotnet", "DevopsPoC.dll"]
